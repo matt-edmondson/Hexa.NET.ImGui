@@ -127,5 +127,5 @@ jobs:
       lib-version: "v1.92.4"
       pr-base-branch: "main"
       pr-reviewers: JunaMeinhold
-      pr-branch: backends-artifacts
+      pr-branch: backends-static-artifacts
       pr-manifest-path: imgui_impl
